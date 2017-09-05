@@ -1,0 +1,18 @@
+{
+  "name": "myexpresssurvey",
+  "version": "1.0.0",
+  "private": "true",
+  "description": "Survey REST Services",
+  "main": "mainserver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "http-status-codes": "^1.1.6",
+    "mongoose": "^4.10.6"
+  }
+}
